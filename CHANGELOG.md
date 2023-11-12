@@ -2,7 +2,7 @@
 
 ### 2.0.5
 
-* Theme Support for UIImagePickerController (#83)
+# Theme Support for UIImagePickerController (#83)
 * Objective-C Demo Project
 * Fixed Erroneous Swift Method Naming Convention Warnings
 * Bumped up the minimum version of iOS to `8.0`.
@@ -182,3 +182,4 @@ Replaced with: `RandomFlatColorWithShade(shade)`
 * Fixed a couple of spelling errors
 * Extra '#define' deleted *(Fixed by [**@cascio**](https://github.com/cascio))*.  
 * Imported UIKit in ChameleonStatusBar.h and NSArray+Chameleon.h *(Fixed by [**@jmhooper**](https://github.com/jmhooper))*.
+ 
